@@ -3,7 +3,6 @@ Repositório criado para o trabalho do PROJETO INTEGRADOR: DESENVOLVIMENTO DE SI
 App Físio Agora!
 
 Grupo 15: 
-- Eduardo Henrique Cheron Gomes da Silva
 - Jacqueline Rodrigues Oliveira
 - Nathan da Silva Rocha
 - Pedro Ivo Maldonado Roschel
